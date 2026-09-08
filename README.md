@@ -31,8 +31,7 @@ A retail organization wants to transform its operational data into an analytical
 
 ## 📄 Dataset & Resources
 * **Dataset File:** `Central_Superstore.xlsx`
-* **Evaluation Rubric:** `Mini-Project-2-Grading-Rubric.docx`
-
+* 
 ---
 
 ## 📝 License
