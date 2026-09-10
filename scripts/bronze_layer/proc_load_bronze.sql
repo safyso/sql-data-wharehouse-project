@@ -7,6 +7,14 @@ Script Purpose:
     the 'bronze' schema table ('bronze.raw_superstore').
     It performs an incremental load by inserting only new, non-existing records 
     using the EXCEPT operator.
+
+Parameters:
+    None. 
+(This stored procedure doesn't accept any parameters)
+
+Usage Example:
+    EXEC Staging.load_Staging;
+
 ===============================================================================
 */
 
