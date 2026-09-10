@@ -1,17 +1,11 @@
 /*
 ===============================================================================
-DDL Script: Create Bronze Layer Tables
+DDL Script: Create Bronze Tables
 ===============================================================================
 Script Purpose:
-    This script creates the raw table 'bronze.raw_superstore' inside the 
-    'Superstore_DW' database. This table acts as the raw persistence layer 
-    to store unmodified data coming from the staging area.
-
-Parameters:
-    None. (This stored procedure / DDL script doesn't accept any parameters)
-
-Dependencies:
-    - Requires the 'Superstore_DW' database and 'bronze' schema to exist.
+    This script creates tables in the 'bronze' schema, dropping existing tables
+    if they already exist.
+    Run this script to re-define the DDL structure of 'bronze' tables.
 ===============================================================================
 */
 
