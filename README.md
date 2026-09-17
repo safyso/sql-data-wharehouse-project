@@ -42,4 +42,3 @@ This project is open-source and free to use under the **MIT License**. Feel free
 ## 🌟 About Me
 
 Hi there! I'm **Safia Eid**, passionate about data analysis, databases, and building efficient data-driven solutions.
-
